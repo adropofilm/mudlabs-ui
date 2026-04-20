@@ -1,5 +1,5 @@
 {
-  "name": "@mudlabs/ui",
+  "name": "mudlabs-ui",
   "version": "0.1.0",
   "description": "MudLabs branded React component library wrapping pixel-retroui",
   "license": "ISC",
