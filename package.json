@@ -14,8 +14,12 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite build --watch",
+    "prepublishOnly": "npm run build",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "peerDependencies": {
     "pixel-retroui": ">=1.0.0",
