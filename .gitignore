@@ -4,3 +4,4 @@ storybook-static
 debug-storybook.log
 .env
 .env.*
+.vercel
